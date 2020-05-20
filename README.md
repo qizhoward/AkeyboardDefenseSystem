@@ -44,3 +44,10 @@
      4*26+26=130位
      全部英文字母最少需要130位二进制位置
 
+
+     ——————————
+
+     programm of
+     linux application
+     break linux application
+
